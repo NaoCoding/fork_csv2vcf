@@ -1,4 +1,4 @@
-[![Chinese](https://img.shields.io/badge/lang-Chinese-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![Chinese](https://img.shields.io/badge/lang-Chinese-red.svg)](https://github.com/NaoCoding/fork_csv2vcf/blob/master/README_zh.md)
 <div align="center">
 <img src="http://moduland.github.io/csv2vcf/images/logo.jpg" height=240px width=320px>
 </div>
