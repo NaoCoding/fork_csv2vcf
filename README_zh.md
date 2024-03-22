@@ -123,15 +123,15 @@
 					
 ## 贊助我們的計畫									
 
-If you feel like our project is important can you please support us?			
-Our project is not and is never going to be working for profit. We need the money just so we can continue doing what we do.
+如果你覺得我們的專案很棒可以贊助我們			
+我們的專案從來都不是為了賺錢，只是我們需要一些金錢來維護它 
 
 <h3>Bitcoin :</h3>					
 
 ```1XGr9qbZjBpUQJJSB6WtgBQbDTgrhPLPA```
 				
 
-<h3>Payping (For Iranian citizens) :</h3>
+<h3>Payping (伊朗居民) :</h3>
 
 <a href="http://www.payping.net/sepandhaghighi" target="__blank"><img src="http://www.qpage.ir/images/payping.png" height=100px width=100px></a>
 
